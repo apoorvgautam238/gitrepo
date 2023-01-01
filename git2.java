@@ -1,1 +1,1 @@
-First changes in git 2 file.
+First changes in git 2 file.git 2 is there.

@@ -1,1 +1,1 @@
-First change in git3 file. Second changes will be coming.
+First change in git3 file
